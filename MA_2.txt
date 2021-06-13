@@ -1,0 +1,6 @@
+You chose maths analysis. Here is the task:
+Determine the limit. Input answer:
+ lim    ln(x)/ln(sin(x))
+x -> 0
+
+1

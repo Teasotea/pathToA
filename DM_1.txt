@@ -1,0 +1,5 @@
+You chose discrete maths. Here is the task:
+Simplify and input the answer:
+(A -> (B -> C)) -> ((A -> B) - > (A -> C))
+
+1

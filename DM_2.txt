@@ -1,0 +1,6 @@
+You chose discrete maths. Here is the task:
+How many numbers between 1 and 1000, including both,
+are divisible by 3 or 4?
+Input the answer:
+
+500

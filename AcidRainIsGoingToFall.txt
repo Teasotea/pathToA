@@ -1,0 +1,8 @@
+MOVE: ->, <-
+SPEED UP: SPACE
+
+          !!Attention!!
+Acid rain is going to fall very soon!
+Walk around the street and find place
+to hide from poisoned drops.
+Otherwise you will lose your life!!!

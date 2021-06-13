@@ -1,0 +1,13 @@
+You chose maths analysis. Here is the task:
+ Determine if the following series converges or diverges.
+ If it converges input c, else if diverges input d
+ ____________________________
+ inf
+ --
+\             ln(n+1)
+/     (-1)^n   _______
+ --              n
+n = 1
+_____________________________
+
+d

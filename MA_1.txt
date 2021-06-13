@@ -1,0 +1,6 @@
+You chose maths analysis. Here is the task:
+Determine the limit. Input answer:
+  lim     (sqrt(x^2 +x)-sqrt(x^2-x))
+x -> -inf
+
+-1

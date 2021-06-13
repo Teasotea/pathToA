@@ -1,0 +1,8 @@
+You chose linear algebra. Here is the task:
+Determine the dimension of and basis for the solution space of the system.
+Input the dimension:
+ / x1 + x2 - 2x3 = 0
+{ -2x1 - 2x2 + 4x3 = 0
+ \ -x1 - x2 + 2x3 = 0
+
+2

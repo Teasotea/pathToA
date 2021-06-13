@@ -1,0 +1,9 @@
+You chose maths analysis. Here is the task:
+Evaluate the following indefinite integral. Input coefficient of the answer:
+ --            - - -
+|     1      /   x
+ -    _     /  _____  dx
+  |   x^2  v   x - 1
+--
+
+2

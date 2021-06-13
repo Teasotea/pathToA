@@ -1,0 +1,6 @@
+You chose discrete maths. Here is the task:
+Explore if it is a group.
+Input 'Y' if yes or 'N' if no:
+{R, *}, where x*y=x^2y^2 for x,y in R
+
+N
